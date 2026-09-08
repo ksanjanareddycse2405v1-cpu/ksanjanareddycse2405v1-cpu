@@ -15,4 +15,3 @@ I'm **Sanjana Reddy** 🌸
 - GitHub: https://github.com/ksanjanareddycse2405v1
 
 ⭐ *"Keep learning, keep growing!"*
-![Static Badge](https://img.shields.io/badge/:badgeContent)
